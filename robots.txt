@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gubuzomawone.netlify.app/sitemap.xml
